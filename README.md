@@ -1,4 +1,4 @@
 hello
 =====
 
-Here we have a nice README
+Here we have a nice README.
